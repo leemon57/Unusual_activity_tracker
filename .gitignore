@@ -1,0 +1,31 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and temporary data
+*.log
+logs/
+tmp/
+*.tmp
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Docker files that shouldn't go to git
+*.pid
+*.sock
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Ignore environment and config secrets
+.env
+config/*.json
