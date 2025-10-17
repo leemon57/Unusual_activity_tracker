@@ -4,5 +4,3 @@ backoff         # Retry with exponential backoff on transient errors
 schedule        # Simple scheduler for interval jobs
 orjson          # Fast JSON (used for printing events)
 httpx
-playwright
-beautifulsoup4
